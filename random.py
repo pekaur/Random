@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#This program gives the random number from 
+#This program gives the random number
 
 import time
 
